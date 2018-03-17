@@ -3,9 +3,9 @@
         "client": "mysql",
         "connection": {
             "host"     : "127.0.0.1",
-            "user"     : "ghost",
-            "password" : "lwj@1314.",
-            "database" : "blog"
+            "user"     : "root",
+            "password" : "",
+            "database" : "ghost"
         }
     },
     "paths": {
